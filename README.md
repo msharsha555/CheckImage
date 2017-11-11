@@ -41,7 +41,7 @@ Initial Page you see when you type localhost:5000 in the browser:
 
 The uploaded image is the following:
 
-![alt text](https://user-images.githubusercontent.com/17835484/32687057-783137fe-c6d9-11e7-99ac-373ee80ee1f1.jpg)
+<img src="https://user-images.githubusercontent.com/17835484/32687057-783137fe-c6d9-11e7-99ac-373ee80ee1f1.jpg" width="994" height="600">
 
 After processing the image:
 
