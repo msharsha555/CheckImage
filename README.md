@@ -23,7 +23,13 @@ You can see a simple webpage asking to upload an image.
 Upload the image and you can see instantaneous results about the image 
 
 The following details are included in the result:
-1.To check whether the image is blurred or not
-2.To check whether the image is overexposed or underexposed or taken under good lightning conditions
-3.To check whether the image contains flash or glare
+
+
+1.To check whether the image is **blurred** or **NOT blurred**
+
+
+2.To check whether the image is **overexposed** or **underexposed** or taken under **good lightning** conditions
+
+
+3.To check whether the image contains **flash or glare**
 
