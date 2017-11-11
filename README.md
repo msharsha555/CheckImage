@@ -47,4 +47,8 @@ After processing the image:
 
 ![alt text](https://user-images.githubusercontent.com/17835484/32687036-b6d826d0-c6d8-11e7-9b9e-8607e690c497.jpg)
 
+Terminal after successful image processing ( 200 implies successful completion ):
+
+![alt text](https://user-images.githubusercontent.com/17835484/32687239-2b4bea10-c6de-11e7-8432-4d0d789dfb51.png)
+
 
