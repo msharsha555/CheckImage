@@ -7,7 +7,7 @@ import cv2
 from skimage import measure
 import numpy as np
 
-UPLOAD_FOLDER = '/home/harsha/images'
+UPLOAD_FOLDER = '/home/harsha/CheckImage/Images'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
 
 app = Flask(__name__)
@@ -90,15 +90,7 @@ def upload_file():
 
         		return string
     
-    return  '''
-    <!doctype html>
-    <title>Upload File</title>
-    <h1>Upload File</h1>
-    <form method=post enctype=multipart/form-data>
-      <p><input type=file name=file>
-         <input type=submit value=Upload>
-    </form>
-    '''
+    return 	render_template('upload.html')
 
 if __name__ == "__main__":
 	app.run()
